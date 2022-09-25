@@ -14,6 +14,29 @@
         android:theme="@style/Theme.BancoDio"
         tools:targetApi="31">
         <activity
+            android:name=".ActClientes"
+            android:exported="false"
+            android:label="@string/title_activity_act_clientes"
+            android:theme="@style/Theme.BancoDio.NoActionBar" />
+        <activity
+            android:name=".ActDeposito"
+            android:exported="false"
+            android:label="@string/title_activity_act_deposito"
+            android:theme="@style/Theme.BancoDio.NoActionBar" />
+        <activity
+            android:name=".ActSaque"
+            android:exported="false"
+            android:label="@string/title_activity_act_saque"
+            android:theme="@style/Theme.BancoDio.NoActionBar" />
+        <activity
+            android:name=".ActTransferencia"
+            android:exported="false"
+            android:label="@string/title_activity_act_transferencia"
+            android:theme="@style/Theme.BancoDio.NoActionBar" />
+        <activity
+            android:name=".ActContas"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

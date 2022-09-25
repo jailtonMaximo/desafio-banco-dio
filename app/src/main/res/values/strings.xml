@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">BancoDio</string>
+    <string name="title_activity_act_clientes">ActClientes</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="clientes">Clientes</string>
+    <string name="transferencias">Transferencias</string>
+    <string name="depositos">Depositos</string>
+    <string name="saques">saques</string>
+    <string name="contas">Contas</string>
+    <string name="title_activity_act_transferencia">ActTransferencia</string>
+    <string name="title_activity_act_saque">ActSaque</string>
+    <string name="title_activity_act_deposito">ActDeposito</string>
+    <string name="c_digo">Código: </string>
+    <string name="nome">Nome: </string>
 </resources>
